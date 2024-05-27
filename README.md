@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Sewskii
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Sewskii/Sewskii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+local plr = game.Players.LocalPlayer
+local hum = plr.Character.Humanoid
+local Anim = Instance.new("Animation")
+Anim.AnimationId = "rbxassetid://84315373"
+hum:LoadAnimation(Anim):Play()
