@@ -1,3 +1,1 @@
--- u can change distance
--- keybind is q to go to the player
--- click also for it to work
+u can change distance and keybind just click ur mouse then click the key u set it too
