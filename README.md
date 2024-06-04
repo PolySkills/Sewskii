@@ -1,0 +1,3 @@
+-- u can change distance
+-- keybind is q to go to the player
+-- click also for it to work
