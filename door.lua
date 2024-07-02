@@ -8,5 +8,5 @@ end
 
 -- second verzion if u wanna mention doors , instead of "House1"
 while wait() do
-workspace.("Door"):WaitForChild.("Lock"):WaitForChild.("ClickDetector")WaitForChild.("RemoteEvent")
+workspace.("Door"):WaitForChild.("Lock"):WaitForChild.("ClickDetector")WaitForChild.("RemoteEvent"):FireServer()
 end
